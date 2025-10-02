@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,www.ps3419.org
+DOMAIN-SUFFIX,ps3419.org
+DOMAIN-SUFFIX,stream.jw.org
+DOMAIN-SUFFIX,jw-cdn.org
+DOMAIN-SUFFIX,app.jw-cdn.org
+DOMAIN-SUFFIX,flyingbird.pro
+DOMAIN-SUFFIX,jw.org
+DOMAIN-SUFFIX,ed7731.dns.nextdns.io
+DOMAIN-KEYWORD,ed7731.dns
